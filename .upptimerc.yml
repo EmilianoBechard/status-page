@@ -32,3 +32,4 @@ assignees:
 notifications:
   - type: ntfy
     topic: monitor_notifications
+    server: https://ntfy.sh
