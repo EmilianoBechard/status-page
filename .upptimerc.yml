@@ -1,37 +1,31 @@
-# Change these first
-owner: EmilianoBechard # Your GitHub organization or username, where this repository lives
-repo: status-page # The name of this repository
+# Configuración Principal
+owner: EmilianoBechard
+repo: status-page
 
+# Sitios a monitorear
 sites:
   - name: "Bechard Studio Web"
     url: https://bechard-studio.com
   - name: "n8n Automation"
-    url: https://n8n.bechard-studio.com  # Cambia por tu URL real
+    url: https://n8n.bechard-studio.com
   - name: "G52 Monitor"
-    url: https://monitor.bechard-studio.com # El túnel que vi en tu captura
+    url: https://monitor.bechard-studio.com
   - name: "Worklo"
     url: https://worklo-drab.vercel.app
 
-# Esto es para que la web sepa su nombre
-status-website:
-  cname: status.bechard-studio.com
-  name: Bechard Studio Status
-  introHtml: "Bienvenido al monitor de servicios de Bechard Studio. Monitoreado desde la nube sin usar recursos del G52."
-
+# Configuración de la Web (Una sola vez)
 status-website:
   cname: status.bechard-studio.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Bechard Studio Status
   introTitle: "**Bechard Studio** Status"
-  introMessage: "Monitor de servicios en tiempo real. Sistema autónomo corriendo en GitHub Actions para no consumir recursos locales."
+  introMessage: "Bienvenido al monitor de servicios de Bechard Studio. Monitoreado desde la nube sin usar recursos del G52."
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/EmilianoBechard/status-page
 
+# Usuarios asignados
 assignees:
   - EmilianoBechard
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
