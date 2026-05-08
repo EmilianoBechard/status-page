@@ -7,7 +7,7 @@ sites:
   - name: "Bechard Studio Web"
     url: https://bechard-studio.com
   - name: "n8n Automation"
-    url: https://n8n.bechard-studio.com
+    url: https://n8n.bechard-studios.com
   - name: "G52 Monitor"
     url: https://monitor.bechard-studio.com
   - name: "Worklo"
@@ -29,3 +29,6 @@ status-website:
 # Usuarios asignados
 assignees:
   - EmilianoBechard
+notifications:
+  - type: ntfy
+    topic: monitor_notifications
