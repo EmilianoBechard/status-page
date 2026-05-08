@@ -7,11 +7,11 @@ sites:
   - name: "Bechard Studio Web"
     url: https://bechard-studio.com
   - name: "n8n Automation"
-    url: https://n8n.bechard-studios.com
+    url: https://n8n.bechard-studio.com
   - name: "G52 Monitor"
     url: https://monitor.bechard-studio.com
   - name: "Worklo"
-    url: https://esta-pagina-no-existe-12345.com
+    url: https://worklo-drab.vercel.app
 
 # Configuración de la Web (Una sola vez)
 status-website:
