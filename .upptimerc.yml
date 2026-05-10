@@ -11,7 +11,7 @@ sites:
   - name: "G52 Monitor"
     url: https://monitor.bechard-studio.com
   - name: "Worklo"
-    url: https://worklo-drab.vercel.app
+    url: https://crm.bechard-studio.com
 
 # Configuración de la Web (Una sola vez)
 status-website:
