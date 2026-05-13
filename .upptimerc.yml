@@ -10,7 +10,7 @@ sites:
     url: https://n8n.bechard-studio.com
   - name: "G52 Monitor"
     url: https://monitor.bechard-studio.com
-  - name: "Worklo"
+  - name: "Bechard CRM"
     url: https://crm.bechard-studio.com
 
 # Configuración de la Web (Una sola vez)
