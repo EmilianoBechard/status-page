@@ -22,19 +22,19 @@
     "url": "https://n8n.bechard-studio.com",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.bechard-studio.com.ico",
     "slug": "n8n-automation",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "91.23%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 634,
-    "timeDay": 770,
+    "status": "up",
+    "uptime": "99.24%",
+    "uptimeDay": "79.87%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
+    "time": 635,
+    "timeDay": 742,
     "timeWeek": 689,
-    "timeMonth": 634,
-    "timeYear": 634,
+    "timeMonth": 635,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2026-06-04": 126
+      "2026-06-04": 290
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://monitor.bechard-studio.com",
     "icon": "https://icons.duckduckgo.com/ip3/monitor.bechard-studio.com.ico",
     "slug": "g52-monitor",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "91.25%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 612,
-    "timeDay": 357,
-    "timeWeek": 649,
-    "timeMonth": 612,
-    "timeYear": 612,
+    "status": "up",
+    "uptime": "99.24%",
+    "uptimeDay": "79.88%",
+    "uptimeWeek": "97.13%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
+    "time": 614,
+    "timeDay": 469,
+    "timeWeek": 654,
+    "timeMonth": 614,
+    "timeYear": 614,
     "dailyMinutesDown": {
-      "2026-06-04": 126
+      "2026-06-04": 290
     }
   },
   {
