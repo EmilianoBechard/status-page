@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 0,
-    "timeWeek": 85,
-    "timeMonth": 113,
-    "timeYear": 133,
+    "time": 132,
+    "timeDay": 63,
+    "timeWeek": 82,
+    "timeMonth": 110,
+    "timeYear": 132,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.bechard-studio.com.ico",
     "slug": "n8n-automation",
     "status": "down",
-    "uptime": "85.54%",
-    "uptimeDay": "99.98%",
+    "uptime": "85.43%",
+    "uptimeDay": "89.55%",
     "uptimeWeek": "52.01%",
     "uptimeMonth": "80.06%",
-    "uptimeYear": "85.54%",
+    "uptimeYear": "85.43%",
     "time": 579,
     "timeDay": 516,
     "timeWeek": 382,
-    "timeMonth": 651,
+    "timeMonth": 666,
     "timeYear": 579,
     "dailyMinutesDown": {
       "2026-06-04": 411,
@@ -54,7 +54,7 @@
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 818,
-      "2026-07-28": 0
+      "2026-07-28": 150
     }
   },
   {
@@ -63,15 +63,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.bechard-studio.com.ico",
     "slug": "g52-monitor",
     "status": "down",
-    "uptime": "85.63%",
-    "uptimeDay": "100.00%",
+    "uptime": "85.52%",
+    "uptimeDay": "89.57%",
     "uptimeWeek": "52.01%",
     "uptimeMonth": "80.06%",
-    "uptimeYear": "85.63%",
+    "uptimeYear": "85.52%",
     "time": 574,
     "timeDay": 33,
     "timeWeek": 300,
-    "timeMonth": 670,
+    "timeMonth": 687,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2026-06-04": 411,
@@ -93,7 +93,7 @@
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 818,
-      "2026-07-28": 0
+      "2026-07-28": 150
     }
   },
   {
