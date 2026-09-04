@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 166,
-    "timeWeek": 142,
-    "timeMonth": 126,
+    "timeDay": 164,
+    "timeWeek": 145,
+    "timeMonth": 122,
     "timeYear": 132,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.bechard-studio.com.ico",
     "slug": "n8n-automation",
     "status": "down",
-    "uptime": "63.65%",
-    "uptimeDay": "99.98%",
+    "uptime": "63.48%",
+    "uptimeDay": "69.23%",
     "uptimeWeek": "33.38%",
     "uptimeMonth": "19.38%",
-    "uptimeYear": "63.65%",
-    "time": 485,
-    "timeDay": 452,
-    "timeWeek": 276,
-    "timeMonth": 233,
-    "timeYear": 485,
+    "uptimeYear": "63.48%",
+    "time": 483,
+    "timeDay": 98,
+    "timeWeek": 262,
+    "timeMonth": 236,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2026-06-04": 411,
       "2026-06-07": 305,
@@ -86,7 +86,8 @@
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1281,
-      "2026-09-03": 0
+      "2026-09-04": 197,
+      "2026-09-03": 246
     }
   },
   {
@@ -95,16 +96,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.bechard-studio.com.ico",
     "slug": "g52-monitor",
     "status": "down",
-    "uptime": "63.70%",
-    "uptimeDay": "99.99%",
+    "uptime": "63.54%",
+    "uptimeDay": "69.25%",
     "uptimeWeek": "33.38%",
     "uptimeMonth": "19.38%",
-    "uptimeYear": "63.70%",
-    "time": 483,
-    "timeDay": 518,
-    "timeWeek": 286,
-    "timeMonth": 238,
-    "timeYear": 483,
+    "uptimeYear": "63.54%",
+    "time": 481,
+    "timeDay": 194,
+    "timeWeek": 268,
+    "timeMonth": 241,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2026-06-04": 411,
       "2026-06-07": 305,
@@ -157,7 +158,8 @@
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1281,
-      "2026-09-03": 0
+      "2026-09-04": 197,
+      "2026-09-03": 246
     }
   },
   {
@@ -171,11 +173,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 525,
-    "timeWeek": 450,
-    "timeMonth": 321,
-    "timeYear": 444,
+    "time": 446,
+    "timeDay": 674,
+    "timeWeek": 478,
+    "timeMonth": 328,
+    "timeYear": 446,
     "dailyMinutesDown": {}
   }
 ]
