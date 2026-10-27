@@ -8,8 +8,6 @@ sites:
     url: https://bechard-studio.com
   - name: "n8n Automation"
     url: https://n8n.bechard-studio.com
-  - name: "G52 Monitor"
-    url: https://monitor.bechard-studio.com
   - name: "Bechard CRM"
     url: https://crm.bechard-studio.com
 
