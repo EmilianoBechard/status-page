@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 128,
-    "timeWeek": 163,
+    "timeDay": 158,
+    "timeWeek": 165,
     "timeMonth": 197,
     "timeYear": 149,
     "dailyMinutesDown": {}
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.bechard-studio.com.ico",
     "slug": "n8n-automation",
     "status": "down",
-    "uptime": "62.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "46.10%",
-    "uptimeYear": "62.67%",
-    "time": 466,
-    "timeDay": 420,
-    "timeWeek": 613,
-    "timeMonth": 370,
-    "timeYear": 466,
+    "uptime": "62.57%",
+    "uptimeDay": "72.06%",
+    "uptimeWeek": "96.01%",
+    "uptimeMonth": "45.18%",
+    "uptimeYear": "62.57%",
+    "time": 464,
+    "timeDay": 98,
+    "timeWeek": 527,
+    "timeMonth": 357,
+    "timeYear": 464,
     "dailyMinutesDown": {
       "2026-06-04": 411,
       "2026-06-07": 305,
@@ -119,7 +119,9 @@
       "2026-10-25": 1440,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
-      "2026-10-22": 1121
+      "2026-10-22": 1121,
+      "2026-11-05": 330,
+      "2026-11-04": 72
     }
   },
   {
@@ -133,11 +135,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 429,
-    "timeDay": 753,
-    "timeWeek": 504,
-    "timeMonth": 464,
-    "timeYear": 429,
+    "time": 433,
+    "timeDay": 1131,
+    "timeWeek": 600,
+    "timeMonth": 491,
+    "timeYear": 433,
     "dailyMinutesDown": {}
   }
 ]
